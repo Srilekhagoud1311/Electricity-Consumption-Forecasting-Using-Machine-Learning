@@ -1,2 +1,2 @@
-# Electricity-Consumption-Forecasting-Using-Machine-Learning
-This project predicts future electricity consumption using machine learning models like Linear Regression and Random Forest. By analyzing past energy usage patterns, it helps improve energy management, reduce wastage, and support sustainable development through accurate demand forecasting.
+# REAL TIME PREDICTIVE POWER MANAGEMENT IN IOT DEVICES USING AI PROCESSORS
+The project titled “Real-Time Predictive Power Management in IoT Devices Using AI Processors” aims to develop an intelligent system that predicts and optimizes power consumption in Internet of Things (IoT) devices through the application of machine learning algorithms. With the rapid expansion of IoT networks in modern industries and households, efficient power management has become essential to extend device lifespan, reduce operational costs, and ensure sustainability.
